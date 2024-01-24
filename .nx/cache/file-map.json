@@ -66,6 +66,10 @@
         "hash": "18210278994710539225"
       },
       {
+        "file": ".github/workflows/ci-cd.yml",
+        "hash": "3697624420349007189"
+      },
+      {
         "file": ".gitignore",
         "hash": "91109559695469517"
       },
@@ -76,6 +80,10 @@
       {
         "file": ".vscode/settings.json",
         "hash": "1151538777131426085"
+      },
+      {
+        "file": "README.md",
+        "hash": "12533684086753361109"
       },
       {
         "file": "angular.json",
@@ -139,7 +147,7 @@
       },
       {
         "file": "src/app/home/home.page.html",
-        "hash": "3668328913015384273"
+        "hash": "11677007730131703867"
       },
       {
         "file": "src/app/home/home.page.scss",
@@ -151,7 +159,7 @@
       },
       {
         "file": "src/app/home/home.page.ts",
-        "hash": "1571215977137710084"
+        "hash": "14245019266465058471"
       },
       {
         "file": "src/assets/icon/favicon.png",
